@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Omega_esp_colordisplay_0.1",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_adc_cal.h": "c",
+			"main.h": "c",
+			"gpio.h": "c",
+			"gpio_etm.h": "c",
+			"adc.h": "c",
+			"freertos.h": "c",
+			"freertosconfig.h": "c",
+			"ad770x.h": "c",
+			"semphr.h": "c",
+			"functions.h": "c",
+			"adc_cali.h": "c",
+			"adc_continuous.h": "c",
+			"adc_types.h": "c",
+			"adc_oneshot.h": "c"
+		}
+	}
+}
